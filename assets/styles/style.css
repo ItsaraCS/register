@@ -1,0 +1,22 @@
+body{
+	background-image: url('../images/bg.png');
+	font-size: 14px;
+}
+.header, .footer{
+	margin: 10px auto;
+}
+.header div.well{
+	background-color: #3A5876;
+	color: #FFFFFF;
+	font-size: 20px;
+}
+.footer div.well{
+	background-color: #3A5876;
+	color: #FFFFFF;
+}
+.text-indent{
+	margin-right: 5px;
+}
+.no-margin-bottom{
+	margin-bottom: 0;
+}
